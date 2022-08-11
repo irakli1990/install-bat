@@ -1,7 +1,0 @@
-{
-  "name": "com.infolab.reader",
-  "description": "Card reader host",
-  "path": "com.infolab.reader.bat",
-  "type": "stdio",
-  "allowed_origins": ["chrome-extension://oeopcoinjfabpgcomgbggffngaohglhh/"]
-}

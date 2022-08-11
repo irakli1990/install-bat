@@ -3,5 +3,5 @@
   "description": "Card reader host",
   "path": "com.infolab.reader.bat",
   "type": "stdio",
-  "allowed_origins": ["chrome-extension://oeopcoinjfabpgcomgbggffngaohglhh/"]
+  "allowed_origins": ["chrome-extension://lihjgjgeehfmddbfogipiioiepeomejk/"]
 }
